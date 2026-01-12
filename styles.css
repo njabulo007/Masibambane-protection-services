@@ -403,7 +403,8 @@ header.scrolled {
     .hero-slide-3 {
         background-image: url('images/masibambane Hero image small 3.png') !important;
     }
-}
+        .hero-slide-1 {
+        background-image: url('images/Masibambane\ Hero\ image\ 1.jpg') !important;
     }
 }
 
