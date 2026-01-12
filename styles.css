@@ -379,7 +379,7 @@ header.scrolled {
 
 .hero-slide {
     position: absolute;
-    top: 120px;
+    top: 150px;
     left: 0;
     width: 100%;
     height: calc(100% + 100px);
