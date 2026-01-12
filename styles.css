@@ -394,6 +394,19 @@ header.scrolled {
     opacity: 1;
 }
 
+/* Small screens use the officer image */
+@media (max-width: 768px) {
+    .hero-slide-2 {
+        background-image: url('images/masibambane Hero image small 2.png') !important;
+    }
+    
+    .hero-slide-3 {
+        background-image: url('images/masibambane Hero image small 3.png') !important;
+    }
+}
+    }
+}
+
 .hero::after {
     content: '';
     position: absolute;
